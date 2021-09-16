@@ -1,10 +1,11 @@
+<!--
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarbonera&layout=compact&langs_count=7&theme=merko"/>
 </div>
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarbonera&hide=java,html,css&theme=radical)](https://github.com/mcarbonera/github-readme-stats)
 -->
-
+<div>
+  <pre>
                             __...------------._ <br />
   IT'S A TRAP!           ,-'                   `-. <br />
                       ,-'                         `. <br />
@@ -45,13 +46,18 @@
              `-..____...-''                              | <br />
                                                          | <br />
                                mGk                       | <br />
-                               
+  </pre>
+</div>
+     
+<div>
 Hello! Carbonera here! <br />
 I'm a Computer Engineer. <br />
 Interested in control theory and robotics. <br />
 Here is my robot Jubileu: <br />
 [![Watch the video](https://img.youtube.com/vi/PS3rdL_LvIc/maxresdefault.jpg)](https://www.youtube.com/watch?v=PS3rdL_LvIc)
-
-<br />
+</div>
+  
+<div>
 If you're still here, don't miss this video too: <br />
 [![Watch the video](https://img.youtube.com/vi/PS3rdL_LvIc/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+</div>
